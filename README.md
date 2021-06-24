@@ -8,7 +8,7 @@ koin練習程式碼
 * get or inject
   真正需要dependency的地方。
 -----
-xx
+內容擷取自Android十全大補
 
 # Koin Github
 https://github.com/InsertKoinIO/koin
